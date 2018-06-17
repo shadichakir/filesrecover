@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">إسترجاع جميع الملفات المحذوفة، واتس اب...</string>
+    <string name="priv"><u>سياسة الخصوصية</u></string>
+    <string name="rat"><u>تقيم التطبيق</u></string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-5227911034604828/8970449767</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5227911034604828/4318271777</string>
+    <!--
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> -->
+</resources>
